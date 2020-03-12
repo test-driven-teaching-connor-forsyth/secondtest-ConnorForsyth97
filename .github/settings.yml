@@ -1,0 +1,7 @@
+repository:
+  description: here you will develop your javascript skills using the accompanying hello.js file
+
+labels:
+  - name: stuck
+    color: '#00ff00'
+    description: If you would like help please use this label when creating an issue
